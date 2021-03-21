@@ -1,2 +1,2 @@
 # EasySeleniumAKA
-Aka Java (Maven)easy Selenium JUnit Project.
+Aka Java(Maven) Easy Selenium JUnit Project.
